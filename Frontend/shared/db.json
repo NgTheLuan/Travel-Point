@@ -1,0 +1,290 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "La Cle Eden Villa",
+      "image": "images/LaCleEdenVilla.jpg",
+      "category": "villa",
+      "label": "Hot",
+      "price": "8.614.458 VND",
+      "featured": true,
+      "description": "Không chỉ sở hữu vị trí giúp quý khách dễ dàng ghé thăm những địa điểm lý thú trong chuyến hành trình, La Cle Eden Villa cũng sẽ mang đến cho quý khách trải nghiệm lưu trú mỹ mãn.La Cle Eden Villa là đề xuất hàng đầu dành cho những tín đồ du lịch bụi mong muốn được nghỉ tại một nơi nghỉ vừa thoải mái lại hợp túi tiền.Khách sạn này là lựa chọn hoàn hảo cho các kỳ nghỉ mát lãng mạn hay tuần trăng mật của các cặp đôi. Quý khách hãy tận hưởng những đêm đáng nhớ nhất cùng người thương của mình tại La Cle Eden Villa. Hãy tận hưởng thời gian vui vẻ cùng cả gia đình với hàng loạt tiện nghi giải trí tại La Cle Eden Villa, một nơi nghỉ tuyệt vời phù hợp cho mọi kỳ nghỉ bên người thân.Du lịch một mình cũng không hề kém phần thú vị và La Cle Eden Villa là nơi thích hợp dành riêng cho những ai đề cao sự riêng tư trong kỳ lưu trú.Dịch vụ tuyệt vời, cơ sở vật chất hoàn chỉnh và các tiện nghi nơi nghỉ cung cấp sẽ khiến quý khách không thể phàn nàn trong suốt kỳ lưu trú tại La Cle Eden Villa.Quầy tiếp tân 24 giờ luôn sẵn sàng phục vụ quý khách từ thủ tục nhận phòng đến trả phòng hay bất kỳ yêu cầu nào. Nếu cần giúp đỡ xin hãy liên hệ đội ngũ tiếp tân, chúng tôi luôn sẵn sàng hỗ trợ quý khách.Với những tiện nghi sẵn có La Cle Eden Villa thực sự là một nơi lưu trú hoàn hảo."
+    },
+    {
+      "id": 1,
+      "name": "Anada Serviced Apartments",
+      "image": "images/zucchipakoda.png",
+      "category": "apartments",
+      "label": "",
+      "price": "6.885.705 VND",
+      "featured": false,
+      "description": "Dịch vụ tuyệt vời, cơ sở vật chất hoàn chỉnh và các tiện nghi nơi nghỉ cung cấp sẽ khiến quý khách không thể phàn nàn trong suốt kỳ lưu trú tại Anada Serviced Apartments In Dalat.Tận hưởng những món ăn yêu thích với phong cách ẩm thực đặc biệt từ Anada Serviced Apartments In Dalat chỉ dành riêng cho quý khách.Với những tiện nghi sẵn có Anada Serviced Apartments In Dalat thực sự là một nơi lưu trú hoàn hảo."
+    },
+    {
+      "id": 2,
+      "name": "Fusion Suites",
+      "image": "images/FusionSuites.jpg",
+      "category": "apartments",
+      "label": "",
+      "price": "2.295.000 VND",
+      "featured": false,
+      "description": "Được thiết kế dành cho đối tượng khách năng động, Fusion Suites Vũng Tàu là một điểm đến lý tưởng của thành phố biển. Điểm đặc biệt là khách sạn bao gồm các hạng phòng và căn hộ rộng rãi, cùng với những hồ bơi trên cao từ tầng 10 trở lên để ngắm thành phố và biển xanh mênh mông, dịch vụ chăm sóc sức khỏe đặc trưng của Fusion. Sự trải nghiệm mỗi ngày với liệu trình spa thư giãn mà không phải trả thêm phí, những lựa chọn ẩm thực đặc sắc cùng với sự thân thiện của đội ngũ Fusionistas sẽ mang đến cho du khách một kỳ nghỉ khó quên nơi thành phố biển.Chỉ cách Sài Gòn 100 km và chưa đầy 2 tiếng di chuyển bằng đường cao tốc hoặc tàu cao tốc, Vũng Tàu luôn là sự lựa chọn được nghĩ đến đầu tiên cho chuyến du lịch đầy ngẫu hứng."
+    },
+    {
+      "id": 3,
+      "name": "Melia Ho Tram Beach Resort",
+      "image": "images/MeliaHoTramBeachResort.jpg",
+      "category": "resort",
+      "label": "",
+      "price": "3.416.490 VND",
+      "featured": false,
+      "description": "Bao quanh bởi vẻ đẹp tự nhiên của Biển Đông, dòng sông Ray thơ mộng và rừng ngập mặn xanh mướt, khu nghỉ dưỡng Meliá Hồ Tràm mời quý khách đến để trải nghiệm sự sang trọng và các dịch vụ tốt nhất, tinh túy nhất đến từ Địa Trung Hải ở bãi biển Hồ Tràm. Khu nghỉ mát sang trọng bên bờ biển mang đến những trải nghiệm tuyệt vời nhất của sự pha trộn tinh tế giữa sự độc đáo của kiến trúc Việt Nam và Địa Trung Hải. Tọa lạc tại Bãi biển Hồ Tràm, cách thành phố Hồ Chí Minh khoảng 140 km; Resort Bãi biển Meliá Ho Tram là cánh cửa lý tưởng để mở ra kỳ một kỳ nghỉ tuyệt vời cho quý khách"
+    },
+    {
+      "id": 4,
+      "name": "Sky Beach D20 Hotel",
+      "image": "images/SkyBeachD20Hotel.jpg",
+      "category": "hotel",
+      "label": "",
+      "price": "21.000.000 VND",
+      "featured": false,
+      "description": "Sky Beach D20 là một khu nghỉ dưỡng cao cấp với chất lượng 4 sao tọa lạc ngay cung đường đẹp nhất của thành phố Nha Trang, tỉnh Khánh Hòa. Từ cửa chính của khu nghỉ dưỡng quý khách có thể tản bộ ra bãi biển chưa đầy 3 phút đi đường,và cảm nhận ngay một bãi biển được mệnh danh là một trong 29 vịnh đẹp nhất thế giới với bãi cát trắng mịn, nước biển trong xanh. Cách sân bay quốc tế Cam Ranh khoảng 30 phút chạy xe."
+    },
+    {
+      "id": 5,
+      "name": "Shark Tank Luxury Villas",
+      "image": "images/SharkTankLuxuryVillas.jpg",
+      "category": "villas",
+      "label": "",
+      "price": "12.395.000 VND",
+      "featured": true,
+      "description": "Nằm cách Bãi biển phía Nam 600 m, Shark Tank Luxury Villas có hồ bơi ngoài trời, sảnh khách chung cũng như chỗ nghỉ gắn máy điều hòa với sân trong và WiFi miễn phí.Mỗi phòng nghỉ tại đây đều được bố trí bếp với máy rửa bát cùng lò vi sóng, truyền hình cáp màn hình phẳng, tiện nghi ủi, bàn làm việc và khu vực ghế ngồi đi kèm ghế sofa. Tất cả các phòng còn có phòng tắm riêng với vòi sen, máy sấy tóc và đồ vệ sinh cá nhân miễn phí.Biệt thự phục vụ bữa sáng à la carte hàng ngày.Khu vực chăm sóc sức khỏe tại Shark Tank Luxury Villas có bể sục và phòng xông hơi khô.Chỗ nghỉ có sân hiên và khu vườn.Shark Tank Luxury Villas nằm cách Viện Hải dương học 1,5 km và Dinh Bảo Đại 2,1 km. Sân bay gần nhất là sân bay quốc tế Cam Ranh, nằm trong bán kính 22 km từ biệt thự, và chỗ nghỉ cung cấp dịch vụ đưa đón sân bay với một khoản phụ phí."
+    },
+    {
+      "id": 6,
+      "name": "An Lam Retreats Ninh Van Bay",
+      "image": "images/AnLamRetreatsNinhVanBay.jpg",
+      "category": "resort",
+      "label": "",
+      "price": "6.604.296 VND",
+      "featured": true,
+      "description": "An Lam Retreats Ninh Van Bay là một khu nghỉ dưỡng độc đáo giữa thiên nhiên, Việt Nam. Tọa lạc trên một bán đảo rừng rậm hẻo lánh, nơi có khung cảnh thiên nhiên, dòng suối tự nhiên và bãi biển tạo nên sự riêng tư và yên tĩnh tuyệt đối, đây là điểm đến hoàn hảo cho sự thoải mái cá nhân, thư giãn và lấy lại sức sống từ cuộc sống nhộn nhịp, lý tưởng cho những ai đang tìm kiếm một nơi nghỉ dưỡng đích thực."
+    },
+    {
+      "id": 7,
+      "name": "TIA Wellness Resort – Spa Inclusive (formerly Fusion Maia)",
+      "image": "images/TIAWellnessResortSpaInclusive.jpg",
+      "category": "resort",
+      "label": "",
+      "price": "20.216.490 VND",
+      "featured": false,
+      "description": "Nằm trên bãi biển Mỹ Khê xinh đẹp, TIA Wellness Resort - Spa Inclusive - Formerly Fusion Maia - Formerly Fusion Maia cung cấp dịch vụ spa miễn phí tại tiện nghi spa lớn nhất ở miền Trung Việt Nam với các phòng xông hơi ướt và xông hơi khô. Resort trên bãi biển này cung cấp chỗ nghỉ 5 sao ở thành phố Đà Nẵng và có hồ bơi ngoài trời với thác nước.Với sân nhỏ riêng nhìn ra quang cảnh hoàng hôn tuyệt đẹp, mỗi biệt thự kiểu Việt Nam hiện đại đều có cách bố trí rộng rãi và phòng khách không gian mở. Phòng tắm lớn có cửa sổ ngoại cỡ cùng khu vực bồn tắm và vòi sen riêng biệt. Quý khách có thể ngâm mình trong hồ bơi riêng của biệt thự."
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "dishId": 0,
+      "rating": 5,
+      "comment": "Kỳ nghỉ ấm áp. Nhân viên nơi đây rất thân thiện và hiểu biết rõ công việc của mình, tư vấn cho khách rất hiệu quả. Phòng ở rất sạch sẽ, ấm cúng, bố trí hợp lý. Nhà hàng nhỏ gọn, thức ăn tạm ổn nhưng chưa phong phú. Thức uống pha chế khá ngon. Điểm nổi bật là dịch vụ spa, chuyên nghiệp và tư vấn tốt. Đa số nhân viên có tay nghề tốt.",
+      "author": "Ha Thi H.L",
+      "date": "2021-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "dishId": 0,
+      "rating": 4,
+      "comment": "Khách sạn gần biển và service tốt. Nhân viên thân thiện. Giá cả phải chăng. Chắc chắn sẽ quay lại Sala thêm lần nữa!",
+      "author": "Nguyen T.L",
+      "date": "2021-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "dishId": 4,
+      "rating": 5,
+      "comment": "Dịch vụ quá tốt luôn",
+      "author": "Ho T.M",
+      "date": "2021-04-13T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "dishId": 4,
+      "rating": 4,
+      "comment": "View hướng biển siêu đẹp. Khách sạn sang trọng và chuyên nghiệp. Nhân viên cực kì nhiệt tình. Đồ ăn sáng đa dạng, sẽ quay lại lần sau ❤️",
+      "author": "Ngan G",
+      "date": "2021-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "dishId": 2,
+      "rating": 4,
+      "comment": "Khách sạn ổn. Vị trí gần biển. Lễ tân nhất là bạn sales của khách sạn rất thân thiện và nhiệt tình. Bellman rất lễ phép luôn. View phòng và yêu cầu phòng đúng theo ý muốn của khách hàng. Đồ ăn sáng ngon và rất nhiều sự lựa chọn. Phòng sạch sẽ thoáng mát. ",
+      "author": "Hoang X.D",
+      "date": "2021-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "dishId": 3,
+      "rating": 5,
+      "comment": "Thái độ phục vụ của các bạn nhân viên là điểm cộng rất lớn của khách sạn, gần biển nữa tiện trong việc đi lại. Nếu tiếp tục đến Đà Nẵng thì Sala sẽ lại là lựa chọn của mình.",
+      "author": "Linh L.N",
+      "date": "2021-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "dishId": 6,
+      "rating": 5,
+      "comment": "Phòng đẹp, nhân viên thân thiện, buffet ngon. Quá tuyệt vời ❤️",
+      "author": "Thi T.N.P",
+      "date": "2021-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "dishId": 7,
+      "rating": 3,
+      "comment": "Tôi nghĩ mùa dịch thì khách sạn nên linh động hỗ trợ khách trả phòng trễ. nhân viên lễ tân thì cứng ngắc không biết linh động hỗ trợ khác vài tiếng cứ khăng khăng đòi tính tiền khách, hồ bơi khách ít mà lúc nào cũng không có khăn tắm. điểm cộng là khách sạn đẹp, nhạc lobby hay, nhân viên nhà hàng, bell, bảo vệ nhiệt tình, ăn sáng ổn.",
+      "author": "Phung T.N.T",
+      "date": "2021-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 8,
+      "dishId": 7,
+      "rating": 4,
+      "comment": "Khách sạn gần biển và service tốt. Nhân viên thân thiện. Giá cả phải chăng. Chắc chắn sẽ quay lại Sala thêm lần nữa!",
+      "author": "Nguyen T",
+      "date": "2021-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 9,
+      "dishId": 2,
+      "rating": 5,
+      "comment": "View hướng biển siêu đẹp. Khách sạn sang trọng và chuyên nghiệp. Nhân viên cực kì nhiệt tình. Đồ ăn sáng đa dạng, sẽ quay lại lần sau ❤️",
+      "author": "25 Cent",
+      "date": "2021-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 10,
+      "dishId": 3,
+      "rating": 5,
+      "comment": "Mọi thứ thật tuyệt vời. Chúng tôi đã uống bia trong quán bar trên sân thượng của họ với cảnh hoàng hôn tuyệt đẹp. Ngoài ra spa của họ rất đẹp mà cả tôi và đối tác của tôi đang tận hưởng rất nhiều.",
+      "author": "Lieu H.T",
+      "date": "2021-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 11,
+      "dishId": 3,
+      "rating": 4,
+      "comment": "Khách sạn gần bãi biển chỉ 2 phút đi bộ, nhân viên rất hữu ích đặc biệt là người quản lý cung cấp cho chúng tôi một dịch vụ và thông tin tuyệt vời xung quanh Đà Nẵng. Hơn hết ở khách sạn Sala danang thật tuyệt vời.",
+      "author": "Tran P.M",
+      "date": "2021-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 12,
+      "dishId": 3,
+      "rating": 5,
+      "comment": "khách sạn mới, đẹp, nhân viên nhiệt tình, chu đáo, vị trí ngay đối diện biển. mình đi đúng dịp Tết dương lịch nên còn được tặng thêm 1 chai rượu vang, rất ưng về cách phục vụ của khách sạn",
+      "author": "Vu Tien N.T",
+      "date": "2021-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 13,
+      "dishId": 1,
+      "rating": 5,
+      "comment": "5* cho phong cách phục vụ, phòng ốc đẹp. nói chung nhà 2 vợ chồng và 2 em bé rất thích và sẽ quay lại khi có dịp đến Đà Nẵng.",
+      "author": "Hang P",
+      "date": "2021-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 14,
+      "dishId": 1,
+      "rating": 4,
+      "comment": "Khách sạn đẹp, phòng sạch sẽ, nhân viên thân thiện, mọi thứ đều tuyệt vời. Tôi đã có 1 kỳ nghỉ trăng mật đáng nhớ. Lần sau quay lại nhất định sẽ lại ghé Sala Hotel",
+      "author": "Trang P",
+      "date": "2021-04-02T17:57:28.556094Z"
+    },
+    {
+      "id": 15,
+      "dishId": 3,
+      "rating": 3,
+      "comment": "Phòng khá ok cho khách đi nhóm hoặc gia đình. nhưng mình không thích bữa sáng lắm",
+      "author": "Châu T.B.T",
+      "date": "2021-08-16T17:57:28.556094Z"
+    },
+    {
+      "id": 16,
+      "dishId": 3,
+      "rating": 4,
+      "comment": "Địa điểm đẹp dịch vụ tốt Nếu có dịp quay lại. Đà nẵng nhất định chúng tôi vẫn sẽ chọn Sala để dừng chân",
+      "author": "Hong S.P",
+      "date": "2021-07-05T17:57:28.556094Z"
+    },
+    {
+      "id": 17,
+      "dishId": 3,
+      "rating": 3,
+      "comment": "Khách sạn đẹp, nhân viên nhiệt tình, mình nghỉ tại phòng junior suite rất rộng .",
+      "author": "Van H.H",
+      "date": "2021-01-22T17:57:28.556094Z"
+    },
+    {
+      "id": 18,
+      "dishId": 4,
+      "rating": 4,
+      "comment": "Khách sạn rất là đẹp, vào phòng cảm giác rất dễ chịu, nằm trên giường là phóng tầm mắt ra biển đẹp cực luôn, bể bơi nhỏ nhg đủ các góc để chụp choẹt. Ăn sáng không đặc sắc lắm",
+      "author": "Trinh T.M.H",
+      "date": "2021-05-11T17:57:28.556094Z"
+    },
+    {
+      "id": 19,
+      "dishId": 6,
+      "rating": 2,
+      "comment": "Toilet bị hôi có báo lễ tân nhưng vẫn không xử lý. Buffet sáng nghèo nàn. Thang máy bị rung gây cảm giác mất an toàn. Khi check in xong không có người xách đồ lên, lễ tân thiếu thân thiện. Không nên book hotel này!",
+      "author": "Trinh Thai M.L",
+      "date": "2021-04-02T17:57:28.556094Z"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "",
+      "image": "=",
+      "label": "",
+      "price": "",
+      "featured": "",
+      "description": ""
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Nguyễn Thế Luân",
+      "image": "images/IMG01-Luan.jpg",
+      "designation": "FrontEnd",
+      "abbr": "CEO",
+      "featured": false,
+      "description": "𝐻𝑒𝑎𝑙𝑡ℎ𝑦 𝑎𝑛𝑑 𝐵𝑎𝑙𝑎𝑛𝑐𝑒𝑑 𝑙𝑖𝑓𝑒 🙋‍♂️🥦"
+    },
+    {
+      "id": 1,
+      "name": "Nguyễn Thành Lộc",
+      "image": "images/Loc.jpg",
+      "designation": "BackEnd",
+      "abbr": "CFO",
+      "featured": false,
+      "description": "Lộc Lá 🍃"
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "Nguyễn",
+      "lastname": "Luân",
+      "telnum": "134113",
+      "email": "nguyenluan.work@gmail.com",
+      "agree": true,
+      "contactType": "Email",
+      "message": "So happy",
+      "date": "2021-06-06T09:41:49.890Z",
+      "id": 1
+    }
+  ]
+}
